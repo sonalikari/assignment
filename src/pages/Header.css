@@ -1,0 +1,70 @@
+.header {
+  background: rgb(16, 26, 96);
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: -10px;
+  margin-top: -10px;
+  margin-right: 0;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+}
+
+.btn-h {
+  color: #fff;
+  background: none;
+  border: none;
+  margin-left: 15px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.icon-header {
+  font-size: 15px;
+  margin-left: 20px;
+  cursor: pointer;
+  color: rgb(35, 35, 255);
+}
+
+.new-button-h {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 5px 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.btn-h-last {
+  color: #fff;
+  background: none;
+  border: none;
+  margin-left: 15px;
+  margin-right: 40vw;
+}
+
+.icon-header-user {
+  font-size: 15px;
+  margin-left: 20px;
+  cursor: pointer;
+  margin-right: 20px;
+  color: rgb(35, 35, 255);
+}
+
+.btn-dropdown {
+  color: rgb(35, 35, 255);
+  background: none;
+  border: 1px solid rgb(35, 35, 255);
+  padding: 5px 8px;
+  margin-left: 10px;
+}

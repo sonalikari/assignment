@@ -1,0 +1,34 @@
+.home-container {
+  padding: 20px;
+  background-color: rgb(3, 10, 75);
+  color: white;
+  margin-left: -10px;
+  height: 90vh;
+}
+
+.showing-info {
+  margin-bottom: 10px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.data-table th,
+.data-table td {
+  border: none;
+  padding: 8px;
+  text-align: left;
+  color: white;
+}
+
+th {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+td {
+  font-size: 12px;
+}

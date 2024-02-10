@@ -1,3 +1,9 @@
+###Screenshot of Output
+![Screenshot (384)](https://github.com/sonalikari/assignment/assets/90141326/9fd97edb-ac27-4c70-a74d-05a90f27ba96)
+![Screenshot (383)](https://github.com/sonalikari/assignment/assets/90141326/351a5261-57dd-4323-b04a-020f215393e2)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

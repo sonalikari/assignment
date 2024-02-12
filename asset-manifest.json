@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.4083fad2.css",
+    "main.js": "/assignment/static/js/main.41d47714.js",
+    "static/js/592.30e723e7.chunk.js": "/assignment/static/js/592.30e723e7.chunk.js",
+    "static/media/razorpay-logo.png": "/assignment/static/media/razorpay-logo.a753d9ed5b4e373c2b7c.png",
+    "index.html": "/assignment/index.html",
+    "main.4083fad2.css.map": "/assignment/static/css/main.4083fad2.css.map",
+    "main.41d47714.js.map": "/assignment/static/js/main.41d47714.js.map",
+    "592.30e723e7.chunk.js.map": "/assignment/static/js/592.30e723e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4083fad2.css",
+    "static/js/main.41d47714.js"
+  ]
+}
